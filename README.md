@@ -8,5 +8,5 @@ Crear un repositorio de git, que funcione como guía estudio sobre los conceptos
 3. [Descripción de los componentes principales de la arquitectura de Azure](https://example.com)
 ***
 ## Integrantes del equipo
-1. **Mauro Talamantes Villagrana**
-2. **Owen Hassan López González**
+- **Mauro Talamantes Villagrana**
+- **Owen Hassan López González**
