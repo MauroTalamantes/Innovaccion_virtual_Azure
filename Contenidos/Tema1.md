@@ -5,22 +5,33 @@
 - Azure como solución.
 - Métodos para creación de suscripción de Azure.
 ## Tabla de contenidos
-1. [Informática en la nube](#informática-en-la-nube)
-2. [Confiabilidad](#confiabilidad)
-3. [Escalabilidad](#escalabilidad)
-4. [Elasticidad](#elasticidad)
-4. [Agilidad](#agilidad)
-4. [Distribución geográfica](#distribución-geográfica)
-4. [Recuperación ante desastres](#recuperación-ante-desastres)
-4. [IaaS](#iaas)
-4. [PaaS](#paas)
-4. [SaaS](#saas)
-4. [Informática sin servidor](#informática-sin-servidor)
-4. [Nube pública](#nube-pública)
-4. [Nube privada](#nube-privada)
-4. [Nube híbrida](#nube-híbrida)
-***
+1. [Azure](#azure)
+2. [Azure Portal](#azure-portal)
+3. [Azure Marketplace](#azure-marketplace)
+4. [Informática en la nube](#informática-en-la-nube)
+5. [Confiabilidad](#confiabilidad)
+6. [Escalabilidad](#escalabilidad)
+7. [Elasticidad](#elasticidad)
+8. [Agilidad](#agilidad)
+9. [Distribución geográfica](#distribución-geográfica)
+10. [Recuperación ante desastres](#recuperación-ante-desastres)
+11. [IaaS](#iaas)
+12. [PaaS](#paas)
+13. [SaaS](#saas)
+14. [Informática sin servidor](#informática-sin-servidor)
+15. [Nube pública](#nube-pública)
+16. [Nube privada](#nube-privada)
+17. [Nube híbrida](#nube-híbrida)
 ## Conceptos
+### Azure
+Es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
+***
+### Azure Portal
+Es una consola unificada basada en web que proporciona una alternativa a las herramientas de línea de comandos. Con Azure Portal, se puede administrar la suscripción de Azure mediante una interfaz gráfica de usuario. Puede:
+- Compilar, administrar y supervisar todo, desde aplicaciones web sencillas hasta complejas implementaciones en la nube.
+- Crear paneles personalizados para una vista organizada de recursos.
+- Configurar opciones de accesibilidad para una experiencia óptima.
+***
 ### Informática en la nube
 Es la prestación de servicios informáticos a través de Internet mediante un modelo de precios de pago por uso. Conocido como *la nube*.  Ofrece innovación más rápida, recursos flexibles y economías de escala, basandose en 3 modelos de servicio(IaaS, PaaS, SaaS). 
 Su modelo de implementación se basa en pública, privada e híbrida.
@@ -37,6 +48,9 @@ Caracteristicas:
 - Agilidad.
 - Distribución geográfica.
 - Recuperación ante desastres.
+***
+### Azure Marketplace
+Facilita la conexión entre los usuarios y los partners de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, optimizados para ejecutarse en Azure. Los clientes de Azure Marketplace pueden buscar, probar, comprar y aprovisionar aplicaciones y servicios de cientos de los principales proveedores de servicios.
 ***
 ### Confiabilidad
 Se refiere a la precisión con la que una aplicación proporciona, sin errores, los servicios que se establecieron en las especificaciones originales.
