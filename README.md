@@ -9,4 +9,4 @@ Crear un repositorio de git, que funcione como guía estudio sobre los conceptos
 ***
 ## Integrantes del equipo
 1. **Mauro Talamantes Villagrana**
-2. **Owen Hassan López**
+2. **Owen Hassan López González**
