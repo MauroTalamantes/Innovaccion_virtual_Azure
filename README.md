@@ -6,7 +6,6 @@ Crear un repositorio de git, que funcione como guía estudio sobre los conceptos
 1. [Introducción a los aspectos básicos de Azure](https://example.com)
 2. [Conceptos fundamentales de Azure](https://example.com)
 3. [Descripción de los componentes principales de la arquitectura de Azure](https://example.com)
-***
 ## Integrantes del equipo
 - **Mauro Talamantes Villagrana**
 - **Owen Hassan López González**
