@@ -1,6 +1,6 @@
 ![Image text](/Imagenes/BannerTema2.png)
-# Conceptos fundamentales de Azure
-## Objetivo
+# 📚 Conceptos fundamentales de Azure
+## 🔎 Objetivo
 - Ventajas y consideraciones de los servicios en la nube.
 - Diferencias entre categorias de servicios en la nube.
 - Describir las diferencias que hay entre los tipos de informática en la nube.
