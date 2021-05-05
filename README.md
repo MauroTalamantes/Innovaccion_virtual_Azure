@@ -4,8 +4,8 @@
 Crear un repositorio de git, que funcione como guía estudio sobre los conceptos aprendidos.
 ## Tabla de contenidos
 1. [Introducción a los aspectos básicos de Azure](Contenidos/Tema1.md)
-2. [Conceptos fundamentales de Azure](Contenidos/Tema1.md)
-3. [Descripción de los componentes principales de la arquitectura de Azure](Contenidos/Tema1.md)
+2. [Conceptos fundamentales de Azure](Contenidos/Tema2.md)
+3. [Descripción de los componentes principales de la arquitectura de Azure](Contenidos/Tema3.md)
 ## Integrantes del equipo
 - **Mauro Talamantes Villagrana**
 - **Owen Hassan López González**
