@@ -92,3 +92,20 @@ Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u
 ***
 ### Nube híbrida
 Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
+***
+### Cuentas de Azure
+Cuando trabaja con sus propias aplicaciones y necesidades empresariales, debe crear una cuenta Azure y se creara una suscripcion para uted. Despues de crear una cuenta de Azure, puede crear suscripciones adicionales. Por ejemplo, su empresa podría usar una sola cuenta de Azure para su empresa y suscripciones independientes para los departamentos de desarrollo, marketing y ventas. Después de crear una suscripción de Azure, puede empezar a crear recursos de Azure dentro de cada suscripción.
+***
+### Crear una cuenta de Azure
+Puede comprar acceso de Azure directamente desde Microsoft inscribiendose en el sitio web de Azure o através de un representante de Microsoft. También puede comprar acceso a Azure a través de un asociado de Microsoft.
+***
+### ¿Qué es la cuenta gratuita de Azure?
+la cuenta gratuita de Azure incluye:
+      . Acceso gratuito a productos populares de Azure durante 12 meses.
+      . Un crédito para gastar durante los primeros 30 días.
+      . Acceso a más de 25 productos que siempre son gratuitos.
+La cuenta gratuita de Azure es una excelente manera de que los nuevos usuarios se inicien y exploren. Para registrarse, necesita un numero de telefono, una tarjeta de crédito se utiliza únicamente para la verificacion de identidad. No se le cobrara por ningún servicio hasta que actualice a una suscripción de pago. 
+***
+### ¿Qué es el entorno limitado Aprender?
+Muchos de los ejercicios de Learn usan una tecnología denominada espacio aislado, que crea una suscripción temporal que se agrega a su cuenta de Azure. Esta suscripción temporal le permite crear recursos de Azure durante la duración de un módulo de Learn. Aprenda a limpiar automáticamente los recursos temporales por usted después de completar el módulo.
+Cuando completes un módulo Learn, puedes usar tu suscripción personal para completar los ejercicios en un módulo. Sin embargo, el entorno limitado es el método preferido para usar, ya que le permite crear y probar recursos de Azure sin costo alguno.
