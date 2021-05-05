@@ -22,6 +22,10 @@
 15. [Nube pública](#nube-pública)
 16. [Nube privada](#nube-privada)
 17. [Nube híbrida](#nube-híbrida)
+18. [Cuentas de Azure](#cuentas-de-azure)
+19. [Crear una cuenta de Azure](#crear-una-cuenta-de-azure)
+20. [¿Qué es la cuenta gratuita de Azure?](#¿qué-es-la-cuenta-gratuita-de-azure?)
+21. [¿Qué es el entorno limitado Aprender?](#¿qué-es-el-entorno-limitado-aprender?)
 ## Conceptos
 ### Azure
 Es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
